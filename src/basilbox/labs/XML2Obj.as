@@ -18,7 +18,7 @@
  /**
  * Converts XMLDocument to recursive Object.
  *
- * @author Anton Kahr ak at basilbox dot com
+ * @author Anton Kahr ak(at)basilbox(dot)com
  */
   package  basilbox.labs {
 	import flash.xml.XMLDocument;
